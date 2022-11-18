@@ -14,7 +14,7 @@ nav {
     display: flex;
     justify-content: center;
 }
-#hero-msg h1, #hero-msg h4 {
+#hero-msg h1, #hero-msg h4, #reasons-header {
     text-align: center;
 }
 .button-box {
@@ -154,7 +154,6 @@ footer a:hover {
     grid-column: 2/3;
     grid-row: 2/3;
     margin-top: 100px;
-    text-align: center
 }
 
 footer p {
