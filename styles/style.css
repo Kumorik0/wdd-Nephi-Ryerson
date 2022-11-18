@@ -150,6 +150,13 @@ footer a:hover {
     z-index: -1;
 }
 
+#reasons-header {
+    grid-column: 2/3;
+    grid-row: 2/3;
+    margin-top: 100px;
+    text-align: center
+}
+
 footer p {
     font-size: 1.2em;
 }
@@ -195,6 +202,11 @@ footer .social img {
     grid-column: 2/7;
     grid-row: 5/8;
     box-shadow: 5px 5px 10px #6f7364;
+}
+
+#paragraph {
+    text-align: center;
+    font-size: larger;
 }
 
 @media screen and (max-width: 900px) {
